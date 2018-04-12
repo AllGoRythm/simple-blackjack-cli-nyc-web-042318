@@ -32,7 +32,7 @@ end
 
 def hit?(currentTotal)
   prompt_user
-  get_user_input
+  storeInput = get_user_input
 end
 
 def invalid_command
