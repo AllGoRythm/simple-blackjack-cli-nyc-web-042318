@@ -59,7 +59,7 @@ def runner
 
   counter = 0
   until counter > 21
-    hit?
+    counter = hit?
     display_card_total
     counter += 1
   end
