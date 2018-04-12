@@ -36,6 +36,7 @@ def hit?(currentTotal)
 
   if storeInput == "s"
     return currentTotal
+  end
 
 end
 
