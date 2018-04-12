@@ -60,7 +60,7 @@ def runner
   counter = 0
   until counter > 21
     counter = hit?(counter)
-    display_card_total
+    display_card_total(counter)
     counter += 1
   end
 return end_game
