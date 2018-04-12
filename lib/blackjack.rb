@@ -55,10 +55,10 @@ end
 #####################################################
 
 def runner
-counter = 0
-until counter > 21
+  counter = 0
+  until counter > 21
 
 
-end
+  end
 return end_game
 end
