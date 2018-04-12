@@ -55,11 +55,11 @@ end
 #####################################################
 
 def runner
-  welcome 
+  welcome
   
   counter = 0
   until counter > 21
-
+    
 
   end
 return end_game
