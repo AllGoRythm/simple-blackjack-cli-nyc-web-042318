@@ -62,7 +62,6 @@ def runner
     hit?
     display_card_total
     counter += 1
-
   end
 return end_game
 end
