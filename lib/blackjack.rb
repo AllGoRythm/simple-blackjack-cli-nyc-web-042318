@@ -57,8 +57,8 @@ end
 def runner
 counter = 0
 until counter > 21
-  
+
 
 end
-
+end_game
 end
