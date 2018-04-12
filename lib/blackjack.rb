@@ -59,5 +59,7 @@ def runner
 
   deal_card
 
+  display_card_total
+
   prompt_user
 end
