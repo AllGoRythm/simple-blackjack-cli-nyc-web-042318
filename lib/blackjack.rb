@@ -55,15 +55,8 @@ end
 #####################################################
 
 def runner
-  welcome
+counter = 0
+until 
 
-  deal_card
-
-  display_card_total
-
-  prompt_user
-
-  get_user_input
-
-  
+end
 end
