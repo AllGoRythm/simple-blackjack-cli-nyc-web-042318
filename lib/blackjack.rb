@@ -56,7 +56,8 @@ end
 
 def runner
 counter = 0
-until 
+until counter == x
+  
 
 end
 end
