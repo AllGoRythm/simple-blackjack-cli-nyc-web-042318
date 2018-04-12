@@ -55,6 +55,8 @@ end
 #####################################################
 
 def runner
+  welcome 
+  
   counter = 0
   until counter > 21
 
