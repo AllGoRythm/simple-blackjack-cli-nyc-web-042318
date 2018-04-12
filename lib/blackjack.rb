@@ -56,10 +56,11 @@ end
 
 def runner
   welcome
-  
+
   counter = 0
   until counter > 21
-    
+    hit?
+    display_card_total
 
   end
 return end_game
