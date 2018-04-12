@@ -37,7 +37,8 @@ def hit?(currentTotal)
   if storeInput == "s"
     return currentTotal
   elsif storeInput == "h"
-    newCard += deal_card
+    currentTotal += deal_card
+    return currentTotal
   end
 
 end
