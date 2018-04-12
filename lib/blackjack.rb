@@ -57,5 +57,5 @@ end
 def runner
   welcome
 
-  
+  deal_card
 end
