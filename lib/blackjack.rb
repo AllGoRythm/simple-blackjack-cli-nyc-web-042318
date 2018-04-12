@@ -60,5 +60,5 @@ until counter > 21
 
 
 end
-end_game
+return end_game
 end
