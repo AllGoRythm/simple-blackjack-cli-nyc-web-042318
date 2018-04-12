@@ -39,6 +39,8 @@ def hit?(currentTotal)
   elsif storeInput == "h"
     currentTotal += deal_card
     return currentTotal
+  else
+    invalid_command
   end
 
 end
