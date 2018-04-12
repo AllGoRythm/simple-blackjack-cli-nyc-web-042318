@@ -58,4 +58,6 @@ def runner
   welcome
 
   deal_card
+
+  prompt_user
 end
